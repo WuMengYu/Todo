@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "version": "0.1.0",
-  "homepage": "https://wumengyu.github.io/todo",
+  "homepage": "https://wumengyu.github.io/-todo",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
